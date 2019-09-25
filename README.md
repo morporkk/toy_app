@@ -1,24 +1,7 @@
-# README
+# RoR tutorial
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Toy App
 
-Things you may want to cover:
+Second application from [Ruby on Rails Tutorial]("https://www.learnenough.com/ruby-on-rails-4th-edition-tutorial/toy_app#sec-inheritance_hierarchies")
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Using scaffolding to create minimalistic Twitter-like app.
